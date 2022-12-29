@@ -25,6 +25,8 @@ Things to note while running this app -
  );
  ```
  
+ <!-- https://www.youtube.com/watch?v=KLB7h1fbNGg -->
+ 
  You can use Postman to test the REST API(s).
  For example, to view all Products, use the endpoint - http://localhost:8080/producs
  Refer to the below screenshot from Postman - 
